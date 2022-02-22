@@ -1,0 +1,36 @@
+.listing-wrapper {
+  margin: 11px 24px 18px 0px;
+
+  p {
+    margin-bottom: 0rem;
+  }
+}
+
+.hstack.listing-hstack {
+  margin-top: -10px;
+
+  @media (max-width: 991.98px){
+    margin-bottom: 20px;
+  }
+}
+
+.form-select-sm.listing-select {
+  border-color: transparent;
+  border-radius: .5rem;
+  height: 40px;
+  cursor: pointer;
+}
+
+.form-select-sm.listing-select:focus {
+  border-color: transparent;
+}
+
+.btn.listing-button {
+  border-color: transparent;
+  border-radius: .5rem;
+}
+
+.btn.listing-button:focus, .btn.listing-button:hover{
+  border-color: transparent;
+  background-color: #EBECF0 !important;
+}

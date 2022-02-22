@@ -1,0 +1,17 @@
+.searchbar-wrapper {
+  margin: 11px 24px 18px 0px;
+}
+
+.searchbar-wrapper.input-group {
+  width: auto;
+  
+  @media (max-width: 991.98px){
+    width: 100%;
+  }
+}
+
+.searchbar-wrapper .form-control, .searchbar-wrapper .input-group-text{
+  background-color: #ffffff;
+  border: 1px solid transparent;
+  
+}

@@ -9,6 +9,8 @@ import {
   ActionsBar,
   Filters,
   Listing,
+  SearchBar,
+  Products,
 } from "@components";
 import { useWindowSize } from "@hooks";
 
@@ -16,12 +18,12 @@ const Home = (): JSX.Element => {
   const { width, height } = useWindowSize();
 
   return (
-    <Container fluid className="home-background">
-      <Row className={`${width < 992 ? "shadow-sm bg-body mb-3 rounded" : ""}`}>
-        <Col xs={2} md={4} lg={3} xl={2} className="p-0 d-flex">
+    <Container fluid className={`home-background ${width >= 992 ? "vh-100" : ""}`}>
+      <Row className={`${width < 992 ? "shadow-sm bg-body mb-3 rounded" : "h-100"}`}>
+        <Col xs={2} md={3} lg={3} xl={2} className="p-0 d-flex">
           <Menu />
         </Col>
-        <Col xs={10} md={8} lg={9} xl={10}>
+        <Col xs={10} md={9} lg={9} xl={10}>
           <TopBar />
 
           {width >= 992 && (
@@ -31,14 +33,12 @@ const Home = (): JSX.Element => {
               </Col>
               <Row>
                 <Col lg={3} xl={3}>
-                  <p>Filters</p>
                   <Filters />
                 </Col>
                 <Col lg={9} xl={9}>
-                  <div className="d-flex justify-content-between">
-                    <p className="fs-6">100 results</p>
-                    <Listing />
-                  </div>
+                  <Listing />
+                  <SearchBar />
+                  <Products />
                 </Col>
               </Row>
             </>
@@ -56,6 +56,8 @@ const Home = (): JSX.Element => {
           <Row>
             <Col>
               <ActionsBar />
+              <SearchBar />
+              <Products />
             </Col>
           </Row>
         </>

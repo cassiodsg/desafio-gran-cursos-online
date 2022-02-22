@@ -1,21 +1,21 @@
 .category-title{
-    font-size: 1.125rem;
-    font-weight: 600;
-  }
-  
-  .category-checked-full > .form-check-input:checked[type=checkbox]{
-    background-image: none;
-  }
-  
-  .category-checked-full > .form-check-input:checked {
-    background-color: #36B37E;
-    border-color: #36B37E;
-  }
-  
-  .category-checked-full > .form-check-input:focus {
-    box-shadow: 0 0 0 0rem rgb(13 110 253 / 25%);
-  }
-  
-  .category-checked-full > label {
-    font-size: 16px;
-  }
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.category-checked-full > .form-check-input:checked[type=checkbox]{
+  background-image: none;
+}
+
+.category-checked-full > .form-check-input:checked {
+  background-color: #36B37E;
+  border-color: #36B37E;
+}
+
+.category-checked-full > .form-check-input:focus {
+  box-shadow: 0 0 0 0rem rgb(13 110 253 / 25%);
+}
+
+.category-checked-full > label {
+  font-size: 16px;
+}

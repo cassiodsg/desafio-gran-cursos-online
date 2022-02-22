@@ -2,12 +2,12 @@
   background-color: transparent;
   border: none;
   outline: none;
+  padding: 0 .125rem;
   cursor: pointer;
 }
-.on {
-  //color: #000;
-  filter: invert(71%) sepia(76%) saturate(3%) hue-rotate(69deg) brightness(101%) contrast(82%);
-}
-.off {
-  color: #ccc;
+
+.rating-title{
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-bottom: 26px;
 }

@@ -1,29 +1,21 @@
-import React, { useEffect, useState, useRef } from "react";
+import React from "react";
 import {
   Button,
-  Image,
-  Stack,
-  Form,
   Popover,
   OverlayTrigger,
 } from "react-bootstrap";
-import { useWindowSize } from "@hooks";
+// import { useWindowSize } from "@hooks";
 import { Filters, Listing } from "@components";
-import Home from "@assets/icons/home.svg";
+// import Home from "@assets/icons/home.svg";
 // import Person from "@assets/images/person.png";
 // import Notification from "@assets/icons/bell.svg";
-import GridImage from "@assets/icons/grid.svg";
-import ListImage from "@assets/icons/list.svg";
+// import GridImage from "@assets/icons/grid.svg";
+// import ListImage from "@assets/icons/list.svg";
 import "./actions-bar.style.scss";
 
 const ActionsBar = (): JSX.Element => {
-  // const { width, height } = useWindowSize();
-  // const nada = useRef<HTMLInputElement>(null);
-  // const [teste, setTeste] = useState(false);
-
   const popover = (
-    <Popover id="popover-basic">
-      {/* <Popover.Header as="h3">Popover right</Popover.Header> */}
+    <Popover className="action-bar-popover" id="popover-basic">
       <Popover.Body>
         <Filters />
       </Popover.Body>

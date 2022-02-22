@@ -7,6 +7,7 @@ import {
   Row,
   Offcanvas,
   Image,
+  Form,
 } from "react-bootstrap";
 import { useWindowSize } from "@hooks";
 import Logo from "@assets/images/logo.png";
@@ -24,9 +25,9 @@ const Menu = (): JSX.Element => {
     <>
       <Navbar
         expand="lg"
-        className={`${width >= 992 ? "shadow p-3 mb-5 bg-body rounded" : ""}`}
+        className={`align-items-baseline ${width >= 992 ? "shadow bg-body" : ""}`}
       >
-        <Container className="justify-content-around">
+        <Container className="justify-content-around ">
           <Row>
             <Col>
               <Navbar.Toggle
@@ -35,24 +36,30 @@ const Menu = (): JSX.Element => {
                 className="p-0"
               />
               {/* {width >= 992 && ( */}
-                <Nav className="flex-column d-none d-lg-flex">
-                  <div>
-                    <Image src={Logo} className="logo" />
-                  </div>
+              <Nav className="flex-column d-none d-lg-flex">
+                <div>
+                  <Image src={Logo} className="logo" />
+                </div>
+                <Form.Select size="sm">
+                  <option>Small select</option>
+                </Form.Select>
+                <p>eCommerce</p>
 
-                  <Nav.Link href="#home">Imagem</Nav.Link>
-                  <Nav.Link href="#home">Home</Nav.Link>
-                  <Nav.Link href="#features">Features</Nav.Link>
-                  <Nav.Link href="#pricing">Pricing</Nav.Link>
+                <p>APPS</p>
+                <Nav.Link href="#home">Email</Nav.Link>
+                <Nav.Link href="#home">Home</Nav.Link>
+                <Nav.Link href="#features">Features</Nav.Link>
+                <Nav.Link href="#pricing">Pricing</Nav.Link>
 
-                  <Nav.Link href="#home">Imagem</Nav.Link>
-                  <Nav.Link href="#home">Home</Nav.Link>
-                  <Nav.Link href="#features">Features</Nav.Link>
-                  <Nav.Link href="#pricing">Pricing</Nav.Link>
-                  {/* <p>
+                <p>UI ELEMENTS</p>
+                <Nav.Link href="#home">Imagem</Nav.Link>
+                <Nav.Link href="#home">Home</Nav.Link>
+                <Nav.Link href="#features">Features</Nav.Link>
+                <Nav.Link href="#pricing">Pricing</Nav.Link>
+                {/* <p>
                     <code>{JSON.stringify({ width, height })}</code>
                   </p> */}
-                </Nav>
+              </Nav>
               {/* )} */}
             </Col>
             <Col></Col>
@@ -62,11 +69,12 @@ const Menu = (): JSX.Element => {
 
       <Offcanvas show={show} onHide={handleClose}>
         <Offcanvas.Header closeButton>
-          <Offcanvas.Title><Image src={Person} roundedCircle /></Offcanvas.Title>
+          <Offcanvas.Title>
+            <Image src={Person} roundedCircle />
+          </Offcanvas.Title>
         </Offcanvas.Header>
         <Offcanvas.Body>
           <Nav className="flex-column">
-          
             <Nav.Link href="#home">Imagem</Nav.Link>
             <Nav.Link href="#home">Home</Nav.Link>
             <Nav.Link href="#features">Features</Nav.Link>

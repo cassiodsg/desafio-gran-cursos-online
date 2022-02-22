@@ -5,6 +5,8 @@ export * from './filters';
 export * from './listing';
 export * from './menu';
 export * from './multirange';
+export * from './products';
 export * from './rangeslider';
 export * from './rating';
+export * from './searchbar';
 export * from './top-bar';
