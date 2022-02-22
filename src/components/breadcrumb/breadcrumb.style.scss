@@ -1,0 +1,26 @@
+.breadcrumb-wrapper{
+  background-color: transparent !important;
+  margin: 30px 24px 25px 24px;
+
+  @media (max-width: 991.98px){
+    margin: 0;
+  }
+}
+
+.breadcrumb-text-title{
+  border-right: 1px solid #979797;
+  padding-right: 15px;
+  margin-bottom: 0;
+}
+.breadcrumb-text-links{
+  margin-bottom: 0;
+}
+.breadcrumb-settings{
+  width: 40px;
+  height: 40px;
+  background-color: #717171;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
