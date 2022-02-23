@@ -1,0 +1,14 @@
+.DS_Store
+
+## Node
+coverage/
+node_modules/
+# src/**/*.jsx
+# tests/__coverage__/
+# tests/**/*.jsx
+
+# /node_modules
+# /coverage
+.yarn
+yarn-error.log
+dist
