@@ -41,7 +41,7 @@ const Filters = (): JSX.Element => {
             <StarRating />
           </Card.Body>
         </Card>
-        <Button className="w-100" variant="secondary">
+        <Button className="w-100 mt-4" variant="secondary">
           Clear All Filters
         </Button>
       </div>

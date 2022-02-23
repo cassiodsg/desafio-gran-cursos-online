@@ -23,7 +23,6 @@ export function useWindowSize(){
 
   useLayoutEffect(() => {
     handleSize()
-    
   }, [])
 
   return windowSize

@@ -31,11 +31,11 @@ const Home = (): JSX.Element => {
               <Col>
                 <BreadCrumb />
               </Col>
-              <Row>
-                <Col lg={3} xl={3}>
+              <Row className="home-background">
+                <Col lg={4} xl={3}>
                   <Filters />
                 </Col>
-                <Col lg={9} xl={9}>
+                <Col lg={8} xl={9}>
                   <Listing />
                   <SearchBar />
                   <Products />

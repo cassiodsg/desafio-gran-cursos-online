@@ -1,7 +1,88 @@
+.menu-logo {
+  margin-top: 30px;
+
+  @media (max-width: 991.98px){
+    margin-top: 0px;
+  }
+}
+
+.menu-title {
+  margin: 45px 0;
+
+  p{
+    margin-bottom: 0;
+  }
+  .form-select {
+    background-color: #ECECEC;
+    border: 1px solid transparent;
+  }
+}
+
+.menu-wrapper > .container {
+  padding-left: 0;
+  padding-right: 0;
+  width: auto;
+}
+
 .navbar-light .navbar-toggler {
-    border-color: transparent;
+  border-color: transparent;
 }
 
 .navbar-toggler:focus{
-    box-shadow: 0 0 0 0rem;
+  box-shadow: 0 0 0 0rem;
+}
+
+.menu-group {
+  margin-bottom: 20px;
+  p {
+    color: #999;
+    margin-bottom: 0;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-left: 0.8rem;
+  }
+  .menu-color{
+    background-color: #ECECEC;
+    border-radius: .525rem;
+  }
+}
+
+.menu-group .nav-link {
+  font-size: 15px;
+  color: #2C2C2C !important;
+  padding-left: 0 !important;
+
+  .menu-image-arrow {
+    padding-left: 30px;
+  }
+}
+
+.menu-top{
+  margin: 45px 0;
+  @media (max-width: 991.98px){
+    margin: 0px 0 45px 0;
+  }
+}
+
+.menu-person {
+  text-align: left;
+  line-height: 15px;
+  margin-right: 12px;
+  margin-left: 15px;
+
+  p:last-of-type {
+    font-size: 11px;
+    color: #2C2C2C;
+    font-weight: 300;
+  }
+}
+
+.menu-item {
+  height: 36px;
+  background-color: #ECECEC !important;
+}
+
+.menu-image {
+  height: 15px;
+  margin: 0 .65rem .25rem 0.8rem;
 }

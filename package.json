@@ -6,7 +6,8 @@
   "license": "ISC",
   "scripts": {
     "start": "npm run dev",
-    "dev": "webpack serve --config=config/webpack/webpack.dev.js"
+    "dev": "webpack serve --config=config/webpack/webpack.dev.js",
+    "api": "json-server --watch db.json --port 3001"
   },
   "dependencies": {
     "bootstrap": "^5.1.3",
@@ -35,6 +36,7 @@
     "eslint-plugin-react": "^7.28.0",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.5.0",
+    "json-server": "^0.17.0",
     "prettier": "^2.5.1",
     "sass": "^1.49.8",
     "sass-loader": "^12.6.0",
