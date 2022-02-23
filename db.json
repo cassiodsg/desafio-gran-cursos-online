@@ -8,7 +8,7 @@
       "description": "Duis exercitation velit tempor occaecat proident in enim incididunt Lorem reprehenderit. Ex dolor aliquip pariatur eiusmod quis. Veniam Lorem dolore et fugiat. Enim occaecat laboris nostrud laborum sint eiusmod ullamco. Lorem reprehenderit deserunt amet nisi.\r\n",
       "productValue": "$3,098",
       "brand": "Apple",
-      "ranting": 2
+      "rating": 2
     },
     {
       "_id": "6215a533ba048e354646278d",
@@ -18,7 +18,7 @@
       "description": "Lorem officia et tempor incididunt sit cupidatat mollit irure pariatur veniam exercitation nostrud aliquip. Veniam non irure aliquip ad non aliqua. Aliqua incididunt sint magna occaecat ex duis. Magna excepteur dolor nulla sit exercitation duis ut sunt veniam ea enim. Proident do cillum mollit reprehenderit minim tempor esse ad ad deserunt ipsum. Commodo esse Lorem magna duis irure aliquip anim cupidatat id consectetur ullamco. Enim adipisicing id do adipisicing cupidatat nostrud.\r\n",
       "productValue": "$797",
       "brand": "Metra",
-      "ranting": 4
+      "rating": 4
     },
     {
       "_id": "6215a533e83ee941e32bc0b4",
@@ -28,7 +28,7 @@
       "description": "Cillum ut aute laboris aliqua irure. Eu laboris amet aute officia occaecat est nisi incididunt magna excepteur nisi quis. Id exercitation qui pariatur do. Mollit tempor quis pariatur nostrud veniam sit occaecat excepteur velit pariatur ad ea qui amet. Duis aliqua occaecat exercitation aute aliqua aute.\r\n",
       "productValue": "$469",
       "brand": "Canon",
-      "ranting": 3
+      "rating": 3
     },
     {
       "_id": "6215a533e1c02113f3a6f355",
@@ -38,7 +38,7 @@
       "description": "Est amet esse voluptate mollit dolor adipisicing sint adipisicing. Tempor elit commodo aute fugiat sit incididunt id ipsum nostrud cupidatat sint mollit fugiat. Veniam deserunt anim deserunt veniam nostrud in est ad ad aliquip. Nisi incididunt ipsum tempor qui. Dolore dolor anim reprehenderit esse officia excepteur enim do in. Eu excepteur aute laborum nisi velit irure cupidatat et excepteur mollit reprehenderit do culpa anim. Esse deserunt voluptate reprehenderit occaecat aliqua occaecat non ea aute ipsum.\r\n",
       "productValue": "$420",
       "brand": "Apple",
-      "ranting": 1
+      "rating": 1
     },
     {
       "_id": "6215a5339df79167c32eb987",
@@ -48,7 +48,7 @@
       "description": "Do voluptate nostrud aliqua ex esse ex aute eu veniam irure occaecat eu pariatur. Quis non ad aute esse in qui anim nostrud nulla sit esse ex ex. Mollit ad ex sint sint quis minim elit veniam. Exercitation tempor nulla et irure sint fugiat nostrud commodo reprehenderit nulla labore culpa. Deserunt officia magna laboris proident eu dolor sint amet magna labore culpa sit cupidatat. Proident amet cillum id reprehenderit excepteur voluptate commodo.\r\n",
       "productValue": "$597",
       "brand": "Samsung",
-      "ranting": 4
+      "rating": 4
     },
     {
       "_id": "6215a53378594a5f1c0a9bfc",
@@ -58,7 +58,7 @@
       "description": "Qui et cupidatat irure veniam fugiat commodo fugiat aliqua esse laboris cillum consectetur aliqua veniam. Excepteur quis pariatur ad esse nulla quis pariatur velit eiusmod magna id veniam. Occaecat eiusmod proident culpa id velit tempor in sunt id mollit et sunt eiusmod. Est exercitation veniam elit laborum. Labore enim est adipisicing consectetur laborum irure nulla aliqua quis do tempor.\r\n",
       "productValue": "$2,449",
       "brand": "Metra",
-      "ranting": 5
+      "rating": 5
     },
     {
       "_id": "6215a533e841acaf1c256f14",
@@ -68,7 +68,7 @@
       "description": "Cupidatat commodo reprehenderit consectetur aliqua reprehenderit dolore ad. Voluptate voluptate reprehenderit exercitation nisi amet ut est. Incididunt voluptate consequat pariatur amet est non duis laborum consectetur proident sint adipisicing aliquip culpa. Laboris nisi labore laboris ad minim adipisicing duis labore id et laboris in fugiat.\r\n",
       "productValue": "$3,584",
       "brand": "Speck",
-      "ranting": 1
+      "rating": 1
     },
     {
       "_id": "6215a5338fe995c0deb89bb7",
@@ -78,7 +78,7 @@
       "description": "Magna dolore aliquip est dolor Lorem aliqua esse. Adipisicing sunt labore exercitation sit nostrud est aute velit aute consequat eiusmod minim aute ipsum. Consequat consectetur ad qui minim deserunt nulla. Eiusmod sint do qui reprehenderit adipisicing.\r\n",
       "productValue": "$2,002",
       "brand": "Canon",
-      "ranting": 4
+      "rating": 4
     },
     {
       "_id": "6215a533ede08ebb464dfb6e",
@@ -88,7 +88,7 @@
       "description": "Deserunt aute fugiat do amet cupidatat aliquip. Non voluptate elit mollit ea id veniam ea exercitation fugiat labore cupidatat. Voluptate dolore adipisicing minim culpa quis veniam mollit velit. Laboris deserunt magna ipsum velit pariatur sit consequat velit pariatur irure nisi do laborum incididunt. Amet duis duis ad voluptate sit ex nulla laboris consectetur.\r\n",
       "productValue": "$3,767",
       "brand": "HP",
-      "ranting": 1
+      "rating": 1
     },
     {
       "_id": "6215a533ebe18240e72f7f9c",
@@ -98,7 +98,7 @@
       "description": "Excepteur tempor ut nisi in pariatur nostrud fugiat aliqua in reprehenderit. Mollit aliquip ipsum elit nulla qui culpa dolor. Aliqua culpa sunt ea non labore tempor in amet occaecat officia qui. Duis cillum aute ad voluptate laborum consectetur dolore sint Lorem do. Minim ea nisi consequat laboris eiusmod. Reprehenderit excepteur mollit voluptate incididunt ullamco nulla aute ullamco quis non dolor.\r\n",
       "productValue": "$3,466",
       "brand": "Canon",
-      "ranting": 2
+      "rating": 2
     },
     {
       "_id": "6215a533f8cb5f3d27af9071",
@@ -108,7 +108,7 @@
       "description": "Exercitation ullamco ad excepteur aute pariatur. Qui laborum deserunt dolor ullamco minim ex officia minim dolor. Amet eiusmod quis tempor deserunt nostrud exercitation et. Sint ea officia nulla irure. Commodo ullamco quis eiusmod do magna magna culpa.\r\n",
       "productValue": "$3,226",
       "brand": "LG",
-      "ranting": 2
+      "rating": 2
     },
     {
       "_id": "6215a533331d7fd907c6f176",
@@ -118,7 +118,7 @@
       "description": "Quis in magna nisi duis ad irure velit quis do qui laborum. Mollit nulla ea proident labore sunt officia proident. Nostrud magna sint amet occaecat cupidatat nisi fugiat veniam amet nisi nisi tempor. Amet sunt duis et eu deserunt Lorem do consequat ad aute adipisicing esse. Esse Lorem irure cupidatat est irure do ex occaecat nulla cillum sit anim cupidatat. Nostrud ut et adipisicing cillum dolore consectetur non enim do. Eu commodo veniam ullamco eiusmod tempor aute sit do nisi exercitation reprehenderit amet consectetur.\r\n",
       "productValue": "$2,681",
       "brand": "Metra",
-      "ranting": 3
+      "rating": 3
     },
     {
       "_id": "6215a5336c9b28cfdd9ed201",
@@ -128,7 +128,7 @@
       "description": "Tempor consequat ut veniam cupidatat commodo duis aliquip eu deserunt ex. Amet eu tempor ut ut quis quis in excepteur veniam ipsum cillum. Cupidatat sit tempor nostrud dolore mollit ipsum anim fugiat. Consequat esse sit esse aute dolore nisi anim Lorem qui non et aliqua.\r\n",
       "productValue": "$1,040",
       "brand": "Samsung",
-      "ranting": 4
+      "rating": 4
     },
     {
       "_id": "6215a5333abb94cb9071a22d",
@@ -138,7 +138,7 @@
       "description": "Laboris laborum in elit magna esse consectetur officia tempor et proident deserunt. Aliquip cupidatat anim adipisicing sit ipsum ipsum reprehenderit et. Elit est sunt aliqua laboris et consequat proident tempor. Lorem sint nisi eiusmod nulla amet officia. Consectetur eu culpa consectetur elit nulla reprehenderit duis nisi. Aliquip magna cillum aute duis voluptate officia ut dolor ad in tempor sit sunt.\r\n",
       "productValue": "$732",
       "brand": "Insigni",
-      "ranting": 5
+      "rating": 5
     },
     {
       "_id": "6215a53337d45356808f098c",
@@ -148,7 +148,7 @@
       "description": "Proident id et cupidatat veniam mollit fugiat dolor cupidatat ipsum duis occaecat est officia in. Nisi sit aute eu velit. Ex nulla incididunt nisi laboris ex ea. Sint consequat ipsum occaecat laboris laboris sunt. Amet esse quis quis officia aliqua eiusmod sint consequat anim laborum sint culpa id laborum. Ad sit fugiat cillum esse esse nulla minim qui culpa magna culpa. Eiusmod proident culpa veniam eiusmod sunt tempor incididunt laborum quis voluptate reprehenderit non.\r\n",
       "productValue": "$3,590",
       "brand": "LG",
-      "ranting": 1
+      "rating": 1
     },
     {
       "_id": "6215a533b71cf9a8044d353c",
@@ -158,7 +158,7 @@
       "description": "Sunt amet ea in sit laboris sit eiusmod dolor sunt non aute minim officia sint. Aute laborum in anim velit deserunt sint esse dolore. Labore aute exercitation cupidatat consequat nulla aliquip reprehenderit consectetur laboris exercitation laboris laboris aliqua consequat. Laborum Lorem occaecat mollit excepteur laborum sit ullamco. Deserunt laboris mollit nostrud ea excepteur aute cupidatat. Aliquip incididunt occaecat voluptate labore eu labore nisi eu anim fugiat deserunt.\r\n",
       "productValue": "$1,080",
       "brand": "Metra",
-      "ranting": 4
+      "rating": 4
     },
     {
       "_id": "6215a5335dfed0cc855c663d",
@@ -168,7 +168,7 @@
       "description": "Voluptate reprehenderit commodo ipsum dolor excepteur. Qui nulla ex sit aute exercitation commodo officia. Nisi veniam enim consequat ex consectetur veniam. Id labore pariatur id Lorem enim consectetur eu enim non velit eiusmod aliquip. Pariatur nostrud ut nulla officia. Cupidatat labore est esse laborum laboris id consequat consectetur nostrud irure irure deserunt et.\r\n",
       "productValue": "$2,004",
       "brand": "HP",
-      "ranting": 1
+      "rating": 1
     },
     {
       "_id": "6215a533ae94b640dd825d15",
@@ -178,7 +178,7 @@
       "description": "Enim laborum voluptate aliquip officia. Pariatur exercitation ipsum velit veniam cupidatat eiusmod aliqua dolor Lorem amet culpa sint excepteur. Aliquip nisi sit quis ullamco ex sit ad duis.\r\n",
       "productValue": "$1,949",
       "brand": "LG",
-      "ranting": 2
+      "rating": 2
     },
     {
       "_id": "6215a53314fe97b314ef9cee",
@@ -188,7 +188,7 @@
       "description": "Commodo id sint exercitation aute consequat labore duis quis. Quis deserunt laborum exercitation ea reprehenderit in ad esse. Laborum esse excepteur irure aute in in fugiat ad fugiat id commodo. Cillum nulla et enim est elit eu magna. Elit excepteur eiusmod aute cupidatat ullamco excepteur veniam sit occaecat qui consectetur eiusmod ad. Ea quis pariatur voluptate consectetur eiusmod mollit et est et occaecat irure.\r\n",
       "productValue": "$203",
       "brand": "Canon",
-      "ranting": 3
+      "rating": 3
     },
     {
       "_id": "6215a533c4ddc8b611576fcd",
@@ -198,7 +198,7 @@
       "description": "Amet in Lorem non nisi elit nisi commodo exercitation culpa ea ex sint minim in. Laborum proident mollit ipsum in. Quis occaecat commodo ipsum nisi tempor est. Lorem non reprehenderit reprehenderit tempor minim nulla incididunt in quis in pariatur ipsum cillum proident. Cillum labore cillum irure deserunt amet commodo labore qui veniam ullamco aliquip.\r\n",
       "productValue": "$534",
       "brand": "Speck",
-      "ranting": 2
+      "rating": 2
     },
     {
       "_id": "6215a533000c05f9b9704958",
@@ -208,7 +208,7 @@
       "description": "Ex in adipisicing occaecat reprehenderit laboris eu sit adipisicing et. Nostrud ut sint id do magna irure ex ad. Tempor ad quis aute culpa nulla. Commodo voluptate minim officia incididunt incididunt consequat nostrud excepteur voluptate excepteur duis dolor laborum sit. Occaecat enim laboris et qui elit quis. Est aliquip aliqua ullamco velit dolor minim sunt.\r\n",
       "productValue": "$1,241",
       "brand": "Apple",
-      "ranting": 5
+      "rating": 5
     },
     {
       "_id": "6215a5330451dc0c3ecde9f7",
@@ -218,7 +218,7 @@
       "description": "Proident consectetur elit labore qui. Dolor adipisicing magna qui id veniam voluptate eiusmod esse eu. Aliqua quis officia eu sint sint commodo proident eiusmod ea aliquip. Proident cupidatat est eu ullamco minim velit ullamco qui nulla qui culpa. Nisi id occaecat velit velit dolor. Commodo deserunt voluptate sint occaecat est quis aliquip esse qui deserunt commodo anim. Sit in incididunt reprehenderit non ullamco proident laborum ad veniam laboris eu sint qui aliqua.\r\n",
       "productValue": "$273",
       "brand": "LG",
-      "ranting": 5
+      "rating": 5
     },
     {
       "_id": "6215a53375aac418355fd53f",
@@ -228,7 +228,7 @@
       "description": "Eu nulla dolore officia sint duis nostrud culpa cillum ipsum nisi. In elit anim nisi ad in occaecat tempor magna ea ex incididunt laboris ex ea. Mollit dolor ad pariatur proident est deserunt ea cillum mollit non exercitation irure pariatur. Duis occaecat occaecat aliquip cillum nostrud cupidatat occaecat laboris eu consectetur duis aute. Ipsum dolor labore do cillum. Magna nulla Lorem magna nisi est magna sint ut qui. Culpa eu incididunt labore nisi sit dolor nisi non ex laborum.\r\n",
       "productValue": "$1,035",
       "brand": "Apple",
-      "ranting": 1
+      "rating": 1
     },
     {
       "_id": "6215a533b7b80e60a31a0a9f",
@@ -238,7 +238,7 @@
       "description": "Reprehenderit nostrud officia magna dolor duis sint enim reprehenderit dolor do. Consequat sint voluptate nisi magna magna minim veniam velit occaecat culpa. Occaecat consectetur exercitation fugiat elit sit irure dolor ullamco ea consequat pariatur aliquip. Enim duis culpa duis amet aute laboris eu ullamco nostrud ullamco id incididunt sint. Enim sit velit dolor culpa ut Lorem culpa non dolore consectetur adipisicing consectetur.\r\n",
       "productValue": "$3,982",
       "brand": "Speck",
-      "ranting": 3
+      "rating": 3
     },
     {
       "_id": "6215a5339762eec82a088390",
@@ -248,7 +248,7 @@
       "description": "Incididunt aute aliquip consectetur elit nisi adipisicing incididunt consequat do irure. Mollit laborum consectetur pariatur fugiat non proident. Tempor mollit aute nisi pariatur sit occaecat et amet dolore minim excepteur sunt aliqua exercitation. Esse sunt ea ex cupidatat deserunt do ut mollit excepteur ut in veniam.\r\n",
       "productValue": "$2,753",
       "brand": "Canon",
-      "ranting": 3
+      "rating": 3
     },
     {
       "_id": "6215a53384df8592841fb1e8",
@@ -258,7 +258,7 @@
       "description": "Voluptate sint aliquip occaecat consectetur nisi ea. Laborum et voluptate esse cupidatat veniam anim consequat Lorem culpa. Lorem ea occaecat magna occaecat. Proident eiusmod mollit consequat consequat. Ea anim velit amet aute veniam cillum sit dolore eu esse aute. Ad pariatur adipisicing in Lorem esse amet pariatur reprehenderit adipisicing amet qui.\r\n",
       "productValue": "$3,165",
       "brand": "HP",
-      "ranting": 1
+      "rating": 1
     },
     {
       "_id": "6215a5334478d7aa6b42bfe6",
@@ -268,7 +268,7 @@
       "description": "Cupidatat culpa consectetur proident adipisicing velit proident labore consequat et nostrud duis aliquip consectetur irure. Pariatur adipisicing aute sint laboris aute culpa id. Sint occaecat amet quis pariatur veniam labore commodo aute officia elit. Ipsum dolor ex labore aliqua fugiat occaecat velit ut. Commodo sint do do id esse minim sit sit velit.\r\n",
       "productValue": "$1,243",
       "brand": "Canon",
-      "ranting": 1
+      "rating": 1
     },
     {
       "_id": "6215a53396ad0a765fe996fe",
@@ -278,7 +278,7 @@
       "description": "Culpa enim quis eiusmod quis ex laborum sunt nulla sint. Occaecat ex consectetur velit anim magna eu nostrud ad ullamco excepteur mollit qui fugiat. Id exercitation commodo exercitation ipsum minim tempor ea nisi. Velit excepteur aliquip Lorem velit laborum eu proident voluptate irure anim ad. Proident velit aliquip do culpa qui ad in deserunt ullamco. Cupidatat do reprehenderit id et pariatur anim labore. Nulla nulla excepteur non mollit aliqua.\r\n",
       "productValue": "$2,566",
       "brand": "LG",
-      "ranting": 3
+      "rating": 3
     },
     {
       "_id": "6215a533ea8dae574c8102b0",
@@ -288,7 +288,7 @@
       "description": "Incididunt dolore nostrud aliqua amet aliqua labore do eiusmod labore quis. Quis sit commodo dolore enim Lorem. Laborum mollit ut mollit et est in do non nostrud anim. Laboris sit esse exercitation aute officia culpa excepteur quis. Fugiat occaecat quis incididunt nostrud reprehenderit ad occaecat dolore mollit incididunt nisi velit esse veniam. Tempor exercitation ut cupidatat cupidatat aliqua dolore officia culpa aliqua.\r\n",
       "productValue": "$1,202",
       "brand": "Apple",
-      "ranting": 1
+      "rating": 1
     },
     {
       "_id": "6215a53398bcf26fa0f90493",
@@ -298,7 +298,7 @@
       "description": "Deserunt deserunt elit labore pariatur dolore elit consequat excepteur nisi dolor voluptate enim amet anim. Adipisicing ea consequat aliqua nulla anim consectetur consequat nisi cupidatat sunt. Eu adipisicing nulla aliquip nostrud. Elit elit sint sunt incididunt eiusmod qui adipisicing fugiat veniam. Excepteur qui minim nisi laborum commodo adipisicing enim voluptate officia est labore. Cupidatat elit culpa laborum culpa ut ex. Exercitation nulla non in pariatur velit ipsum.\r\n",
       "productValue": "$209",
       "brand": "Sony",
-      "ranting": 4
+      "rating": 4
     },
     {
       "_id": "6215a5333e07b73fb45117a2",
@@ -308,7 +308,7 @@
       "description": "Est sunt incididunt sunt nulla voluptate magna nostrud dolore ex ex. Enim nisi eiusmod occaecat laboris sunt est velit pariatur est aliquip quis. Id dolore non mollit aliquip minim sint veniam culpa non velit aute occaecat culpa. Sint esse ipsum velit do occaecat laborum mollit est esse velit et.\r\n",
       "productValue": "$3,814",
       "brand": "Insigni",
-      "ranting": 2
+      "rating": 2
     },
     {
       "_id": "6215a5333904ab9068ce3325",
@@ -318,7 +318,7 @@
       "description": "Duis occaecat excepteur irure qui. Cupidatat id in ex ipsum est proident do veniam. Tempor incididunt ipsum culpa voluptate non nulla. Esse in aute velit eu est elit cupidatat enim tempor irure commodo Lorem non pariatur.\r\n",
       "productValue": "$126",
       "brand": "Dyne",
-      "ranting": 4
+      "rating": 4
     },
     {
       "_id": "6215a5337e43d5b39cf0a4b3",
@@ -328,7 +328,7 @@
       "description": "Lorem veniam aliqua sit anim esse elit Lorem aliqua culpa pariatur sunt enim irure sunt. Veniam dolore laborum nulla adipisicing tempor minim sunt. Irure ipsum amet amet dolore aliquip ipsum consectetur cillum pariatur minim ex ex officia.\r\n",
       "productValue": "$1,257",
       "brand": "HP",
-      "ranting": 3
+      "rating": 3
     },
     {
       "_id": "6215a533b81b0a84ad724207",
@@ -338,7 +338,7 @@
       "description": "Eu ex anim dolore ipsum cupidatat est minim veniam irure sunt est. Consectetur reprehenderit amet pariatur voluptate eiusmod. Ea qui magna est qui dolore deserunt. Occaecat aliqua ex est consequat velit adipisicing officia. Voluptate adipisicing magna officia culpa mollit culpa eu et in irure duis.\r\n",
       "productValue": "$2,739",
       "brand": "Speck",
-      "ranting": 4
+      "rating": 4
     },
     {
       "_id": "6215a533d5644f3b0f878fff",
@@ -348,7 +348,7 @@
       "description": "Mollit sint sit deserunt nulla sint. Ipsum exercitation ad veniam sit cupidatat aute anim cillum duis eu. Lorem labore excepteur sit magna eiusmod mollit eu eu esse id. Aute dolore eu occaecat laborum. Ea consequat voluptate dolor proident. Fugiat ipsum excepteur Lorem mollit qui reprehenderit amet consequat nisi occaecat laborum ut ipsum aliquip.\r\n",
       "productValue": "$761",
       "brand": "HP",
-      "ranting": 4
+      "rating": 4
     },
     {
       "_id": "6215a533c8ed182b917f8d5e",
@@ -358,7 +358,7 @@
       "description": "Ea ut pariatur elit esse dolor ea consectetur eiusmod irure. Lorem in labore consequat consectetur aute esse elit dolore esse deserunt sunt. Cillum officia fugiat proident aliquip velit enim nisi pariatur excepteur ut aliquip mollit velit.\r\n",
       "productValue": "$2,527",
       "brand": "Apple",
-      "ranting": 1
+      "rating": 1
     },
     {
       "_id": "6215a533375cd1148ec05866",
@@ -368,7 +368,7 @@
       "description": "Veniam non eu nostrud minim culpa pariatur deserunt nisi eu non. Qui dolor ullamco mollit mollit nisi et adipisicing esse cillum laborum. Ipsum Lorem nisi duis sunt magna officia nulla labore.\r\n",
       "productValue": "$2,358",
       "brand": "Metra",
-      "ranting": 1
+      "rating": 1
     },
     {
       "_id": "6215a53326f971023d69575a",
@@ -378,7 +378,7 @@
       "description": "Adipisicing deserunt id officia ad sint deserunt. Nulla commodo laboris dolore amet. Ad sit magna deserunt non incididunt veniam consectetur consequat irure proident non. Ullamco ipsum excepteur minim ad aliquip minim magna minim dolor incididunt laboris eiusmod incididunt. Dolore mollit tempor excepteur id culpa enim qui excepteur et duis ea aliqua. Labore nisi sit id exercitation aliquip reprehenderit ex dolor magna et veniam. Occaecat occaecat duis elit minim.\r\n",
       "productValue": "$2,685",
       "brand": "LG",
-      "ranting": 1
+      "rating": 1
     },
     {
       "_id": "6215a5332a32a2305824f101",
@@ -388,7 +388,7 @@
       "description": "Ipsum occaecat aute officia sunt sint magna sunt. Sit non amet id consectetur sunt nulla enim mollit nostrud duis reprehenderit sint aliquip eiusmod. Anim esse commodo cupidatat esse. Aliqua consequat duis dolore commodo Lorem magna quis proident quis aute eu enim sunt deserunt. Exercitation nisi culpa veniam consectetur cupidatat exercitation nulla Lorem amet. Do Lorem excepteur amet laborum id commodo non aliquip quis ullamco. Incididunt qui et incididunt consequat occaecat anim et incididunt tempor magna velit non amet eu.\r\n",
       "productValue": "$907",
       "brand": "Speck",
-      "ranting": 5
+      "rating": 5
     },
     {
       "_id": "6215a5330f6a3c04a151c9bd",
@@ -398,7 +398,7 @@
       "description": "Consequat exercitation dolor Lorem aute sit eu qui amet amet ea. Excepteur mollit qui fugiat tempor anim qui. Sint officia non ea ea ex duis amet exercitation minim velit. Ut nulla nostrud id eiusmod tempor tempor laboris consequat velit fugiat nisi. Consectetur labore in dolor fugiat proident.\r\n",
       "productValue": "$705",
       "brand": "Apple",
-      "ranting": 5
+      "rating": 5
     },
     {
       "_id": "6215a533c485c0ebc8568eaf",
@@ -408,7 +408,7 @@
       "description": "Et aliqua ullamco deserunt nostrud incididunt do voluptate. Irure est commodo qui adipisicing mollit. Anim tempor sunt dolor eu ullamco quis enim cillum officia deserunt. Nulla adipisicing veniam irure ad amet nostrud minim tempor deserunt pariatur sit aute. Ad sint deserunt id ea duis voluptate ad. Exercitation tempor enim pariatur enim.\r\n",
       "productValue": "$3,716",
       "brand": "Canon",
-      "ranting": 4
+      "rating": 4
     },
     {
       "_id": "6215a53361102c7657d2c83a",
@@ -418,7 +418,7 @@
       "description": "Non voluptate aliqua sit aute excepteur Lorem Lorem sit exercitation. Ut voluptate excepteur esse id. Et amet est anim in ad. Exercitation duis ullamco quis labore adipisicing cupidatat id fugiat ea magna magna irure occaecat do. Enim eu voluptate sunt aute ut.\r\n",
       "productValue": "$3,012",
       "brand": "Metra",
-      "ranting": 4
+      "rating": 4
     },
     {
       "_id": "6215a533559cee1e577d3e27",
@@ -428,7 +428,7 @@
       "description": "Culpa enim exercitation mollit id commodo aute ex. Labore exercitation irure nostrud est eu. Sint consectetur nostrud ullamco laborum adipisicing nostrud ut cillum consequat aliquip. Pariatur voluptate sint voluptate consequat culpa velit duis magna consequat ut minim duis.\r\n",
       "productValue": "$2,208",
       "brand": "Apple",
-      "ranting": 3
+      "rating": 3
     },
     {
       "_id": "6215a533356728d12e5b2c06",
@@ -438,7 +438,7 @@
       "description": "Occaecat exercitation incididunt deserunt quis eiusmod irure irure veniam velit in nisi incididunt. Dolore dolore tempor laborum labore nulla sunt do officia ut et ipsum in. Ea ut commodo eu ullamco labore mollit pariatur. Mollit ea aliqua incididunt id magna proident irure. Culpa amet ad est aliqua quis amet et est ipsum Lorem Lorem sunt sunt. Sint mollit non qui nisi est elit duis pariatur consectetur. Cillum cupidatat tempor ullamco id enim ipsum labore nulla eu occaecat proident.\r\n",
       "productValue": "$310",
       "brand": "HP",
-      "ranting": 2
+      "rating": 2
     },
     {
       "_id": "6215a5332c398edc07cef487",
@@ -448,7 +448,7 @@
       "description": "Nulla excepteur minim consequat ipsum consequat anim pariatur quis. Nostrud dolore labore aliquip et laborum consectetur ullamco proident. Tempor qui sit cupidatat cillum. Duis ad ad ut adipisicing. Cupidatat ea excepteur velit incididunt exercitation in ut duis pariatur labore.\r\n",
       "productValue": "$1,202",
       "brand": "Dyne",
-      "ranting": 4
+      "rating": 4
     },
     {
       "_id": "6215a533b24587d991a6a525",
@@ -458,7 +458,7 @@
       "description": "Sit fugiat aute sit mollit. Aliquip laboris nisi amet ut. Veniam consectetur quis ipsum ipsum voluptate laboris magna et est. Est laborum voluptate eu ex veniam amet occaecat. Eu veniam occaecat eu adipisicing commodo adipisicing eu enim Lorem qui aliquip voluptate consectetur deserunt.\r\n",
       "productValue": "$3,800",
       "brand": "Speck",
-      "ranting": 4
+      "rating": 4
     },
     {
       "_id": "6215a5332e792ce7fe38fdc4",
@@ -468,7 +468,7 @@
       "description": "In ut pariatur nisi ea cupidatat veniam consequat ea nisi fugiat incididunt veniam. Mollit aliquip nulla mollit consectetur mollit eu laboris ea dolore. Sunt exercitation Lorem laboris laborum consectetur est nostrud qui ipsum ex anim aliqua. Laborum Lorem eu eu elit laboris ex cupidatat occaecat pariatur adipisicing non amet. Id magna excepteur aliquip magna labore dolor magna magna esse fugiat id ipsum qui. Esse esse eu et laboris nisi commodo labore.\r\n",
       "productValue": "$2,922",
       "brand": "LG",
-      "ranting": 2
+      "rating": 2
     },
     {
       "_id": "6215a533f583615a0579298a",
@@ -478,7 +478,7 @@
       "description": "Cupidatat do esse aliqua amet amet enim dolor veniam nisi velit duis. Velit sint in ipsum ea aliquip eu elit fugiat nisi ex. Minim dolor eiusmod voluptate aute est aute do ex ea commodo.\r\n",
       "productValue": "$1,162",
       "brand": "Canon",
-      "ranting": 1
+      "rating": 1
     },
     {
       "_id": "6215a533a7a410b10b239ded",
@@ -488,7 +488,7 @@
       "description": "Minim magna nostrud aute qui. Eiusmod qui veniam et mollit consectetur occaecat. Ea dolor voluptate incididunt exercitation sunt ullamco. Nisi eu ex consectetur consectetur nostrud irure culpa cillum consequat deserunt. Tempor proident quis aute aliqua dolor esse cupidatat duis ea occaecat incididunt cillum sint ad. Irure tempor do elit occaecat consequat occaecat cupidatat minim do.\r\n",
       "productValue": "$1,957",
       "brand": "Speck",
-      "ranting": 2
+      "rating": 2
     },
     {
       "_id": "6215a533ae22b55418ed83b4",
@@ -498,7 +498,7 @@
       "description": "Ut ullamco sit elit do ad officia eu et et amet elit exercitation magna labore. Laborum quis enim sit non Lorem consequat pariatur tempor ullamco esse et. Ullamco consequat duis ullamco enim qui magna exercitation eiusmod adipisicing ad mollit irure. Ea est deserunt do velit non velit exercitation sit et eiusmod.\r\n",
       "productValue": "$2,011",
       "brand": "Sony",
-      "ranting": 3
+      "rating": 3
     },
     {
       "_id": "6215a533206577a01371ccbc",
@@ -508,7 +508,7 @@
       "description": "Ipsum ipsum exercitation cillum reprehenderit ipsum excepteur in labore esse dolore culpa qui magna velit. Et pariatur in adipisicing amet aliqua ea nostrud occaecat qui elit minim non sint. Reprehenderit eiusmod id aute nisi veniam consequat ea ex laborum ipsum anim laboris mollit magna. Duis consectetur id laboris aute.\r\n",
       "productValue": "$670",
       "brand": "Dyne",
-      "ranting": 4
+      "rating": 4
     },
     {
       "_id": "6215a5330b040d6d466fe8ee",
@@ -518,7 +518,7 @@
       "description": "Sit Lorem ullamco duis esse nisi. Esse duis elit labore laboris labore. Proident in enim exercitation aliqua aliquip cupidatat esse sint duis enim velit ea esse. Cillum adipisicing pariatur aliquip reprehenderit nulla do cupidatat culpa duis eiusmod nisi cillum. In consequat magna in ea commodo aute quis duis adipisicing nostrud tempor.\r\n",
       "productValue": "$993",
       "brand": "Dyne",
-      "ranting": 4
+      "rating": 4
     }
   ]
 }

@@ -31,11 +31,10 @@ import Person from "@assets/images/person.png";
 import RightArrowIcon from "@assets/icons/right-arrow.svg";
 import SidebarIcon from "@assets/icons/sidebar.svg";
 import StarIcon from "@assets/icons/star.svg";
-// import "./menu.style.scss";
 
 const Menu = (): JSX.Element => {
   const [show, setShow] = useState(false);
-  const { width, height } = useWindowSize();
+  const { width } = useWindowSize();
 
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);

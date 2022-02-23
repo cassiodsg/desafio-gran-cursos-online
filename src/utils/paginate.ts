@@ -1,5 +1,3 @@
-import {IProducts} from '../model/products';
-
 const Paginate = (data: any) => {
   const itemsPerPage = 5;
   const pages = Math.ceil(data.length / itemsPerPage);

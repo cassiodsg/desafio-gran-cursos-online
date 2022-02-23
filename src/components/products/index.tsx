@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import { Card, Image, Row, Col, Button, Stack } from "react-bootstrap";
-import { IProducts } from "../../model/products";
+import { Card, Image, Row, Col, Button } from "react-bootstrap";
+import { IProduct } from "../../model/product";
 import { useWindowSize, useFetch } from "@hooks";
 import NoImage from "@assets/images/no-image.png";
 import LeftChevronIcon from "@assets/icons/chevron-left.svg";
@@ -44,10 +44,10 @@ const Products = (): JSX.Element => {
 
   return (
     <>
-      {listProducts.map((products: IProducts) => {
+      {listProducts.map((product: IProduct) => {
         return (
           <Card
-            key={products._id}
+            key={product._id}
             className={`shadow-sm bg-body border-0 ${
               width >= 992 ? "products-wrapper" : "mb-3"
             }`}
@@ -69,19 +69,19 @@ const Products = (): JSX.Element => {
                 </Col>
                 <Col xs={12} md={7} lg={7} xl={7}>
                   <div className="product-content">
-                    <p className="product-title">{products.name}</p>
+                    <p className="product-title">{product.name}</p>
                     <p className="product-category">
-                      By <b>{products.category}</b>
+                      By <b>{product.category}</b>
                     </p>
                     <p className="product-description">
-                      {products.description}
+                      {product.description}
                     </p>
                   </div>
                 </Col>
                 <Col xs={12} md={5} lg={5} xl={3} className={width >= 992 ? 'products-divider': ''}>
                   <div className="d-flex flex-column">
-                    <div className="products-rating-position"><span className="products-rating">{products.ranting} <Image src={StarWhiteIcon} /></span></div>
-                    <p className="products-value">{products.productValue}</p>
+                    <div className="products-rating-position"><span className="products-rating">{product.rating} <Image src={StarWhiteIcon} /></span></div>
+                    <p className="products-value">{product.productValue}</p>
                     <p className="products-shipping"><Image src={ShoopingCartIcon} /> Free Shipping</p>
                     <Button className="products-wishlist"><Image src={HeartIcon} /> Wishlist</Button>
                     <Button className="products-shopping"><Image src={ShoopingBagIcon} />  Add to cart</Button>

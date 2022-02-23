@@ -22,7 +22,7 @@ const Filters = (): JSX.Element => {
             width < 992 ? "border-0" : "shadow-sm bg-body border-0"
           }`}
         >
-          <Card.Body className="">
+          <Card.Body>
             {width < 992 && <Listing />}
             <Multirange />
             <hr />

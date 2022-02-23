@@ -1,11 +1,6 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { Form } from "react-bootstrap";
 import { useWindowSize } from "@hooks";
-import Home from "@assets/icons/home.svg";
-// import Person from "@assets/images/person.png";
-// import Notification from "@assets/icons/bell.svg";
-import ChevronsRight from "@assets/icons/chevrons-right.svg";
-import Settings from "@assets/icons/settings.svg";
 import "./multirange.style.scss";
 
 const Multirange = (): JSX.Element => {

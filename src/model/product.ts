@@ -1,4 +1,4 @@
-export interface IProducts {
+export interface IProduct {
   _id: number;
   name: string;
   category: string;
@@ -6,5 +6,5 @@ export interface IProducts {
   description: string;
   productValue: string;
   brand: string;
-  ranting: number;
+  rating: number;
 }

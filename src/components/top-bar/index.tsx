@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { Card, Image, Stack } from "react-bootstrap";
 import { useWindowSize } from "@hooks";
 import Logo from "@assets/images/logo.png";
